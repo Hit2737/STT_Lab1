@@ -1,5 +1,5 @@
-"""FizzBuzz Program
-
+"""
+FizzBuzz Program
 This script implements the FizzBuzz problem, where numbers from 1 to n are
 printed with the following rules:
 - Print "Fizz" for numbers divisible by 3.
