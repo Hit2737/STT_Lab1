@@ -1,4 +1,5 @@
-# Basic FizzBuzz Implementation
+"""FizzBuzz Implementation
+"""
 
 def fizz_buzz(n):
     """FizzBuzz Implementation
